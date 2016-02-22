@@ -1,0 +1,22 @@
+{
+  "name": "集合map",
+  "homepage": "https://github.com/lanma121/javascriptAddon",
+  "authors": [
+    "lanma121 <786716597@qq.com>"
+  ],
+  "description": "js map 集合",
+  "main": "map.js",
+  "moduleType": [],
+  "keywords": [
+    "js",
+    "map"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
